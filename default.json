@@ -22,6 +22,12 @@
       "addLabels": [
         "major"
       ]
+    },
+    {
+      "matchPackageNames": ["node"],
+      "matchManagers": ["npm"],
+      "matchDepTypes": ["engines"],
+      "enabled": false
     }
   ]
 }
