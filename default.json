@@ -13,6 +13,7 @@
   "rangeStrategy": "bump",
   "rebaseWhen": "auto",
   "timezone": "Asia/Tokyo",
+  "minimumReleaseAge": "7 days",
   "ignoreDeps": [
     "node"
   ],
